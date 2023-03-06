@@ -1,0 +1,27 @@
+[debug] [2022-10-04T00:09:27.047Z] ----------------------------------------------------------------------
+[debug] [2022-10-04T00:09:27.052Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-04T00:09:27.053Z] CLI Version:   11.13.0
+[debug] [2022-10-04T00:09:27.054Z] Platform:      win32
+[debug] [2022-10-04T00:09:27.057Z] Node Version:  v16.17.0
+[debug] [2022-10-04T00:09:27.060Z] Time:          Mon Oct 03 2022 17:09:27 GMT-0700 (Pacific Daylight Time)
+[debug] [2022-10-04T00:09:27.061Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-04T00:09:27.084Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-04T00:09:27.085Z] > authorizing via signed-in user (awais322455@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Dell\Desktop\Portfolio Website
+
+[debug] [2022-10-04T00:11:26.157Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Dell\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
